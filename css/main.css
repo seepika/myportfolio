@@ -30,6 +30,10 @@
   color: #f4f4f4;
   background-color: #333; }
 
+  .btn-dark {
+    color: #f4f4f4;
+    background-color: #ffbc00; }
+
 button[class^='btn-']:hover,
 a[class^='btn-']:hover,
 input[class^='btn-']:hover {
@@ -317,7 +321,7 @@ img {
 #about-a .bio {
   grid-area: bio;
   border-left: 3px solid #ffbc00;
-  padding: 6rem;
+  padding: 4rem;
   line-height: 2.5; }
   
 
